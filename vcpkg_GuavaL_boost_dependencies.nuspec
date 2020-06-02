@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <!-- The identifier that must be unique within the hosting gallery -->
+        <id>Guava_boost_practice_project_dependencies</id>
+
+        <!-- The package version number that is used when resolving dependencies -->
+        <version>1.1.0</version>
+
+        <!-- Authors contain text that appears directly on the gallery -->
+        <authors>GuavaL</authors>
+
+        <!-- 
+            Owners are typically nuget.org identities that allow gallery
+            users to easily find other packages by the same owners.  
+        -->
+        <owners>GuavaL</owners>
+        <!-- 
+            If true, this value prompts the user to accept the license when
+            installing the package. 
+        -->
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+
+        <!-- Any details about this particular release -->
+        <releaseNotes>Add BOOST dependencies</releaseNotes>
+
+        <!-- 
+            The description can be used in package manager UI. Note that the
+            nuget.org gallery uses information you add in the portal. 
+        -->
+        <description>Dependencies for Practice boost Project</description>
+
+        <!-- Copyright information -->
+        <copyright>Copyright ©2020 GuavaL</copyright>
+
+    </metadata>
+</package>
